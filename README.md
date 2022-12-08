@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/nanometer5088">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanometer5088&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanometer5088&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanometer5088&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanometer5088&layout=compact&langs_count=6&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
