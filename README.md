@@ -1,4 +1,6 @@
-## Welcome to my profile ⚡
+
+
+<h1 align="center"> Welcome to my profile ⚡</h1>
 
  <div>
   <a href="https://github.com/nanometer5088">
@@ -13,6 +15,8 @@
 </div>
  
  <br>
+ 
+ ### Dude making code | Gamer | Linux user
  
 <div> 
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
