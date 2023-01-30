@@ -1,6 +1,5 @@
 
-
-<h1 align="center"> Welcome to my profile ⚡</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!;Bem-vindo+ao+meu+perfil!;%C2%A1Bienvenido+a+mi+perfil!)
 
  <div>
   <a href="https://github.com/nanometer5088">
@@ -13,17 +12,10 @@
   <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
- 
- <br>
- 
+
  ### Dude making code | Gamer | Linux user
  
 <div> 
-  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:EMAIL HERE"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="LINKEDIN LINK HERE" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
  
   ![Snake animation](https://github.com/nanometer5088/nanometer5088/blob/output/github-contribution-grid-snake.svg)
 
