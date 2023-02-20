@@ -18,6 +18,6 @@
 
 <div> 
 
-  ![Snake animation](https://github.com/nanometer5088/nanometer5088/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/nanometer5088/nanometer5088/output/github-contribution-grid-snake.svg)
 
 </div>
