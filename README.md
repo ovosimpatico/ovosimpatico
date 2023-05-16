@@ -8,7 +8,7 @@
 class ProfileInfo:
     def __init__(self):
         self.username = "nanometer5088"
-        self.age = 18
+        self.age = 19
         self.location = "Brazil"
         self.hobby = "Coding & Gaming"
         self.discord = "Ovo#9452"
