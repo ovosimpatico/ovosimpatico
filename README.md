@@ -7,7 +7,7 @@
 ```py
 class ProfileInfo:
     def __init__(self):
-        self.username = "nanometer5088"
+        self.username = "ovosimpatico"
         self.age = 19
         self.location = "Brazil"
         self.hobby = "Coding & Gaming"
