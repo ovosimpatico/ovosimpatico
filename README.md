@@ -8,7 +8,7 @@
 class ProfileInfo:
     def __init__(self):
         self.username = "ovosimpatico"
-        self.age = 19
+        self.age = 20
         self.location = "Brazil"
         self.hobby = "Coding & Gaming"
         self.discord = "ovosimpatico"
@@ -20,7 +20,7 @@ class ProfileInfo:
 <br>
 <p>
     <figure align="center">
-        <img src="https://media.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif"></img>
+        <img src="https://media1.tenor.com/m/GHDnI4nlbCAAAAAC/bocchi-bocchi-the-rock.gif"></img>
     </figure>
 </p>
 <br>
