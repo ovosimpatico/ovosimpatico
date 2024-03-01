@@ -5,7 +5,7 @@
 ```py
 class ProfileInfo:
     def __init__(self):
-        self.username = "ovosimpatico"
+        self.username = "theopriosti"
         self.age = 20
         self.location = "Brazil"
         self.hobby = "Coding & Gaming"
@@ -48,14 +48,14 @@ class ProfileInfo:
     <summary>My GitHub Stats</summary>
     <br>
     <p align="center">
-        <img width="300px" height="130px" src="https://github-readme-stats.vercel.app/api?username=ovosimpatico&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"></img>
-        <img width="300px" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=ovosimpatico&theme=tokyonight&hide_border=true"></img>
+        <img width="300px" height="130px" src="https://github-readme-stats.vercel.app/api?username=theopriosti&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"></img>
+        <img width="300px" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=theopriosti&theme=tokyonight&hide_border=true"></img>
     </p>
     <p align="center">
-        <img width="300px" height="135px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovosimpatico&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"></img>
+        <img width="300px" height="135px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=theopriosti&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"></img>
     </p>
     <figure align="center">
-        <img src="https://raw.githubusercontent.com/ovosimpatico/ovosimpatico/output/github-contribution-grid-snake.svg"></figure>
+        <img src="https://raw.githubusercontent.com/theopriosti/theopriosti/output/github-contribution-grid-snake.svg"></figure>
 
 </details>
 <br>
