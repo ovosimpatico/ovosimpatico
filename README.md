@@ -6,13 +6,12 @@
 class ProfileInfo:
     def __init__(self):
         self.username = "ovosimpatico"
-        self.age = 20
         self.location = "Brazil"
         self.hobby = "Coding & Gaming"
         self.discord = "@ovosimpatico"
         self.mainlang = "Python"
         self.os = "Fedora Linux"
-        self.ide = "VSCodium"
+        self.ide = "VSCode"
   ```
 
 <!-- RIP Bocchi the Rock picture -->
