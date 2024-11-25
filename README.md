@@ -61,8 +61,8 @@ class ProfileInfo:
 <details>
     <summary>Discord Activity</summary>
     <p align="center">
-        <a href="https://discord.com/users/614604435443810306">
-            <img src="https://lanyard.cnrad.dev/api/614604435443810306?hideDiscrim=true&idleMessage=I'm%20available!&"></img>
+        <a href="https://discord.com/users/1304941690770952254">
+            <img src="https://lanyard.cnrad.dev/api/1304941690770952254?hideDiscrim=true&idleMessage=I'm%20available!&"></img>
         </a>
     </p>
 </details>
