@@ -10,7 +10,7 @@ class ProfileInfo:
         self.hobby = "Coding & Gaming"
         self.discord = "@ovosimpatico"
         self.mainlang = "Python"
-        self.os = "Fedora Linux"
+        self.os = "Mac OS"
         self.ide = "VSCode"
   ```
 
