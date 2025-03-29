@@ -26,20 +26,29 @@ class ProfileInfo:
     <summary>Languages I Use</summary>
     <br>
     <figure align="center">
-        <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-        <img align="center" alt="R" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-        <img align="center" alt="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-        <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-        <img align="center" alt="Assembly" height="60" width="80" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png">
-        <img align="center" alt="Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-        <img align="center" alt="Bash" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-        <img align="center" alt="HTML" height="60" width="80" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg">
-        <img align="center" alt="CSS" height="60" width="80" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg">
-        <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-        <img align="center" alt="Windows" height="60" width="80" src="https://github.com/devicons/devicon/raw/master/icons/windows11/windows11-original-wordmark.svg">
+        <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+        <img align="center" alt="R" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+        <img align="center" alt="C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+        <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+        <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+        <img align="center" alt="Bash" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+        <img align="center" alt="HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+        <img align="center" alt="Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+        <img align="center" alt="Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
         <img align="center" alt="Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-        <img align="center" alt="Flask" height="60" width="80" src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original-wordmark.svg">
-        <img align="center" alt="Git" height="60" width="80" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
+        <img align="center" alt="Flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
+        <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+        <img align="center" alt="Angular" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+        <img align="center" alt="Typescript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+        <img align="center" alt="Javascript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+        <img align="center" alt="FastAPI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
+        <img align="center" alt="Vite" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+        <img align="center" alt="Sass" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+        <img align="center" alt="MongoDB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+        <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+        <img align="center" alt="Express" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+        <img align="center" alt="NodeJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
     </figure>
 </details>
 <br>
