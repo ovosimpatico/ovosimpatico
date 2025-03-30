@@ -5,6 +5,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=%237848E6&center=true&vCenter=true&random=false&width=500&lines=Python+Developer;Passionate+Coder;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
+  <br>
+
   <a href="https://discord.com/users/1304941690770952254">
     <img src="https://img.shields.io/badge/Discord-%40ovosimpatico-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
