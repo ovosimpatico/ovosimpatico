@@ -34,250 +34,394 @@ class ProfileInfo:
 <details open>
   <summary><b>💻 Programming Languages</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python"/></a>
-      <p>Python</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/></a>
-      <p>JavaScript</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/></a>
-      <p>TypeScript</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java"/></a>
-      <p>Java</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#"/></a>
-      <p>C#</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C"/></a>
-      <p>C</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="60" height="60" alt="R"/></a>
-      <p>R</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/></a>
-      <p>Bash</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="60" height="60" alt="PowerShell"/></a>
-      <p>PowerShell</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" height="60" alt="Arduino"/></a>
-      <p>Arduino</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+          </a>
+          <br>Python
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+          </a>
+          <br>Java
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#"/>
+          </a>
+          <br>C#
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C"/>
+          </a>
+          <br>C
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="60" height="60" alt="R"/>
+          </a>
+          <br>R
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/>
+          </a>
+          <br>Bash
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="60" height="60" alt="PowerShell"/>
+          </a>
+          <br>PowerShell
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" height="60" alt="Arduino"/>
+          </a>
+          <br>Arduino
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
 <details open>
   <summary><b>🌐 Web Development</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/></a>
-      <p>HTML5</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/></a>
-      <p>CSS3</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="60" alt="Sass"/></a>
-      <p>Sass</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React"/></a>
-      <p>React</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" alt="Angular"/></a>
-      <p>Angular</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/></a>
-      <p>Node.js</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" height="60" alt="Express"/></a>
-      <p>Express</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="Vite"/></a>
-      <p>Vite</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+          </a>
+          <br>HTML5
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+          </a>
+          <br>CSS3
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="60" alt="Sass"/>
+          </a>
+          <br>Sass
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+          </a>
+          <br>React
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" alt="Angular"/>
+          </a>
+          <br>Angular
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
+          </a>
+          <br>Node.js
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
+          </a>
+          <br>Express
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="Vite"/>
+          </a>
+          <br>Vite
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
 <details open>
   <summary><b>🔙 Backend & API</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI"/></a>
-      <p>FastAPI</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" alt="Flask"/></a>
-      <p>Flask</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core"/></a>
-      <p>.NET Core</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="60" height="60" alt="Socket.IO"/></a>
-      <p>Socket.IO</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="60" height="60" alt="OpenAPI"/></a>
-      <p>OpenAPI</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="60" height="60" alt="Swagger"/></a>
-      <p>Swagger</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width="60" height="60" alt="OAuth"/></a>
-      <p>OAuth</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx"/></a>
-      <p>Nginx</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI"/>
+          </a>
+          <br>FastAPI
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" alt="Flask"/>
+          </a>
+          <br>Flask
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core"/>
+          </a>
+          <br>.NET Core
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="60" height="60" alt="Socket.IO"/>
+          </a>
+          <br>Socket.IO
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="60" height="60" alt="OpenAPI"/>
+          </a>
+          <br>OpenAPI
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="60" height="60" alt="Swagger"/>
+          </a>
+          <br>Swagger
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width="60" height="60" alt="OAuth"/>
+          </a>
+          <br>OAuth
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="60" height="60" alt="Nginx"/>
+          </a>
+          <br>Nginx
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
 <details open>
   <summary><b>💾 Databases</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/></a>
-      <p>PostgreSQL</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/></a>
-      <p>MongoDB</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/></a>
-      <p>MySQL</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60" height="60" alt="Microsoft SQL Server"/></a>
-      <p>Microsoft SQL Server</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="60" height="60" alt="MariaDB"/></a>
-      <p>MariaDB</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="60" height="60" alt="Elasticsearch"/></a>
-      <p>Elasticsearch</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+          </a>
+          <br>PostgreSQL
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
+          </a>
+          <br>MongoDB
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+          </a>
+          <br>MySQL
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60" height="60" alt="Microsoft SQL Server"/>
+          </a>
+          <br>SQL Server
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="60" height="60" alt="MariaDB"/>
+          </a>
+          <br>MariaDB
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="60" height="60" alt="Elasticsearch"/>
+          </a>
+          <br>Elasticsearch
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
 <details open>
   <summary><b>🛠️ DevOps & Cloud</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/></a>
-      <p>Docker</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" height="60" alt="Kubernetes"/></a>
-      <p>Kubernetes</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/></a>
-      <p>Git</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/></a>
-      <p>GitHub</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" height="60" alt="GitHub Actions"/></a>
-      <p>GitHub Actions</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="GitLab"/></a>
-      <p>GitLab</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="60" height="60" alt="Azure DevOps"/></a>
-      <p>Azure DevOps</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" height="60" alt="Cloudflare"/></a>
-      <p>Cloudflare</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
+          </a>
+          <br>Docker
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" height="60" alt="Kubernetes"/>
+          </a>
+          <br>Kubernetes
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+          </a>
+          <br>Git
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
+          </a>
+          <br>GitHub
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" height="60" alt="GitHub Actions"/>
+          </a>
+          <br>Actions
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="GitLab"/>
+          </a>
+          <br>GitLab
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="60" height="60" alt="Azure DevOps"/>
+          </a>
+          <br>Azure DevOps
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" height="60" alt="Cloudflare"/>
+          </a>
+          <br>Cloudflare
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
 <details>
   <summary><b>📱 Operating Systems & Tools</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60" height="60" alt="MacOS"/></a>
-      <p>MacOS</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/></a>
-      <p>Linux</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60" alt="Windows"/></a>
-      <p>Windows</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode"/></a>
-      <p>VSCode</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" width="60" height="60" alt="SSH"/></a>
-      <p>SSH</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" height="60" alt="Postman"/></a>
-      <p>Postman</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" alt="DBeaver"/></a>
-      <p>DBeaver</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60" height="60" alt="MacOS"/>
+          </a>
+          <br>MacOS
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
+          </a>
+          <br>Linux
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60" alt="Windows"/>
+          </a>
+          <br>Windows
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode"/>
+          </a>
+          <br>VSCode
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" width="60" height="60" alt="SSH"/>
+          </a>
+          <br>SSH
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" height="60" alt="Postman"/>
+          </a>
+          <br>Postman
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60" height="60" alt="DBeaver"/>
+          </a>
+          <br>DBeaver
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
 <details>
   <summary><b>📝 Data Formats & Project Management</b></summary>
   <div align="center">
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" alt="JSON"/></a>
-      <p>JSON</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="60" height="60" alt="YAML"/></a>
-      <p>YAML</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60" height="60" alt="Markdown"/></a>
-      <p>Markdown</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="60" height="60" alt="Axios"/></a>
-      <p>Axios</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="60" height="60" alt="Trello"/></a>
-      <p>Trello</p>
-    </div>
+    <table>
+      <tr>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" alt="JSON"/>
+          </a>
+          <br>JSON
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="60" height="60" alt="YAML"/>
+          </a>
+          <br>YAML
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60" height="60" alt="Markdown"/>
+          </a>
+          <br>Markdown
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="60" height="60" alt="Axios"/>
+          </a>
+          <br>Axios
+        </td>
+        <td align="center" width="90">
+          <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="60" height="60" alt="Trello"/>
+          </a>
+          <br>Trello
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
