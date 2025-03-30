@@ -33,7 +33,7 @@ class ProfileInfo:
 
 ## 🚀 Skills & Technologies
 
-<details open>
+<details>
   <summary><b>💻 Programming Languages</b></summary>
   <div align="center">
     <table>
@@ -105,7 +105,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details open>
+<details>
   <summary><b>🌐 Web Development</b></summary>
   <div align="center">
     <table>
@@ -165,7 +165,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details open>
+<details>
   <summary><b>🔙 Backend & API</b></summary>
   <div align="center">
     <table>
@@ -225,7 +225,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details open>
+<details>
   <summary><b>💾 Databases</b></summary>
   <div align="center">
     <table>
@@ -273,7 +273,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details open>
+<details>
   <summary><b>🛠️ DevOps & Cloud</b></summary>
   <div align="center">
     <table>
@@ -333,7 +333,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details open>
+<details>
   <summary><b>📱 Operating Systems & Tools</b></summary>
   <div align="center">
     <table>
@@ -387,7 +387,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details open>
+<details>
   <summary><b>📝 Data Formats & Project Management</b></summary>
   <div align="center">
     <table>
@@ -432,16 +432,12 @@ class ProfileInfo:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ovosimpatico&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=10" height="180" alt="Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovosimpatico&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ovosimpatico&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=10" height="150" alt="Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovosimpatico&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovosimpatico&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" height="220" alt="Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ovosimpatico&theme=discord&column=4&margin-w=15&margin-h=15" alt="Trophies">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovosimpatico&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" height="150" alt="Languages">
 </div>
 
 ---
