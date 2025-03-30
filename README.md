@@ -333,7 +333,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>📱 Operating Systems & Tools</b></summary>
   <div align="center">
     <table>
@@ -387,7 +387,7 @@ class ProfileInfo:
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>📝 Data Formats & Project Management</b></summary>
   <div align="center">
     <table>
